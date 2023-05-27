@@ -28,11 +28,14 @@ $ npm start
 
 ## Image
 - Home page
+
 ![Home page](https://res.cloudinary.com/its-nedum/image/upload/v1685189521/Home_hslmmt.png)
 
 - Job details page
+
 ![Job details](https://res.cloudinary.com/its-nedum/image/upload/v1685189521/Details_kqgb3l.png)
 
 - Search result page
+
 ![Search result](https://res.cloudinary.com/its-nedum/image/upload/v1685189521/Search_Result_ibxupw.png)
 
